@@ -1,4 +1,4 @@
-# Anatomia de uma DIvisão com PHP
+# Anatomia de uma Divisão 
 
 <img src="https://github.com/bruno-pisciotta281/PHP_Divisionanatomy/blob/main/img_Divisionanatomy.PNG" width="500px;"/>
 
